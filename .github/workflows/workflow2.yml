@@ -9,3 +9,5 @@ jobs:
 
       - name: list all files
         run: ls -r
+      - name: curl request bin
+        run: curl https://en6gy2p20zdbq67.m.pipedream.net
